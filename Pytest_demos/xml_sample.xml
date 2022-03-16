@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<all>
+	<name type="str">test_suite</name>
+	<status type="str">passed</status>
+	<attachments type="list">
+		<item type="dict">
+			<name type="str">stderr</name>
+			<source type="str">55741d0c-ef09-430e-87d4-8a2b9ad8caf8-attachment.txt</source>
+			<type type="str">text/plain</type>
+		</item>
+	</attachments>
+	<start type="int">1645362165306</start>
+	<stop type="int">1645362188161</stop>
+	<uuid type="str">2210b54f-7966-42c1-8455-99211d8d504c</uuid>
+	<historyId type="str">27cbf814dbd7f2d7ae9dad9366f2ae34</historyId>
+	<testCaseId type="str">014671707e1bc688be7815f685de956a</testCaseId>
+	<fullName type="str">test_suite.TestSuite#test_suite</fullName>
+	<labels type="list">
+		<item type="dict">
+			<name type="str">suite</name>
+			<value type="str">test_suite</value>
+		</item>
+		<item type="dict">
+			<name type="str">subSuite</name>
+			<value type="str">TestSuite</value>
+		</item>
+		<item type="dict">
+			<name type="str">host</name>
+			<value type="str">DESKTOP-98D55J1</value>
+		</item>
+		<item type="dict">
+			<name type="str">thread</name>
+			<value type="str">4284-MainThread</value>
+		</item>
+		<item type="dict">
+			<name type="str">framework</name>
+			<value type="str">pytest</value>
+		</item>
+		<item type="dict">
+			<name type="str">language</name>
+			<value type="str">cpython3</value>
+		</item>
+		<item type="dict">
+			<name type="str">package</name>
+			<value type="str">test_suite</value>
+		</item>
+	</labels>
+</all>

@@ -1,0 +1,18 @@
+<test>
+    <tc>
+        <input>Bucuresti</input>
+        <expected>Bucharest</expected>
+    </tc>
+    <tc>
+        <input>Timisoara</input>
+        <expected>Temeswar</expected>
+    </tc>
+    <tc>
+        <input>Moscova</input>
+        <expected>Moskow</expected>
+    </tc>
+    <tc>
+        <input>Cluj</input>
+        <expected>Brasov</expected>
+    </tc>
+</test>

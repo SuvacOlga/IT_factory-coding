@@ -1,0 +1,4 @@
+Bucuresti,Bucharest
+Timisoara,Temeswar
+Moscova,Moskow
+Cluj,Brasov
